@@ -1,0 +1,21 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
+
+# Cache e temporários
+/tmp
+/cache
+
+# Dependências
+/vendor
+/node_modules
+
+# Banco de dados local
+*.sql
+*.db
