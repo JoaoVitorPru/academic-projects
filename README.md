@@ -1,2 +1,12 @@
-# academic-projects
-Portfólio com projetos acadêmicos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas pelo SENAI, com foco em desenvolvimento web, lógica de programação, integração com banco de dados e boas práticas.
+# Academic Projects
+
+Repositório contendo projetos acadêmicos desenvolvidos durante
+minha formação em Análise e Desenvolvimento de Sistemas pelo SENAI.
+
+## 📂 Projetos
+
+### 🔹 TECHPART – Sistema de Gestão de Estoque
+Sistema web para controle de estoque, desenvolvido em PHP e MySQL
+como parte da avaliação SAEP.
+
+> Mais projetos serão adicionados conforme evolução acadêmica e técnica.
